@@ -1,3 +1,4 @@
 for i in range(100000000):
   i += 1
-print("funciona")
+for i in range(1000);
+  print("funciona")
